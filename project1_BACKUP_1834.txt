@@ -1,0 +1,8 @@
+my first project in github
+<<<<<<< HEAD
+iam an intruder dev
+haha find me
+=======
+whats next
+Going to develop my project
+>>>>>>> dev
